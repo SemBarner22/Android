@@ -1,3 +1,15 @@
 [submodule "Fragments"]
 	path = Fragments
 	url = https://github.com/SemBarner22/Fragments
+[submodule "MyWeather"]
+	path = MyWeather
+	url = https://github.com/SemBarner22/MyWeather
+[submodule "NetService"]
+	path = NetService
+	url = https://github.com/SemBarner22/NetService
+[submodule "ContactList"]
+	path = ContactList
+	url = https://github.com/SemBarner22/ContactList
+[submodule "MyCalculator"]
+	path = MyCalculator
+	url = https://github.com/SemBarner22/MyCalculator
